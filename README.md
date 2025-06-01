@@ -38,3 +38,6 @@ O modelo utiliza uma combinação de:
   - 150+ termos de sintomas
   - 15 sistemas do corpo humano
   - Sinônimos e variações linguísticas
+ 
+## Vídeo
+https://youtu.be/qdqzMuR_OmA
