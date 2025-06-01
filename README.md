@@ -1,5 +1,5 @@
 # 📋 Projeto de Análise e Classificação de Bulas de Medicamentos
-**Grupo: Rafael de Souza Oliveira Cerqueira Tinôco**
+**Grupo: Rafael de Souza Oliveira Cerqueira Tinôco, 10401436**
 
 ## 📌 Visão Geral
 
